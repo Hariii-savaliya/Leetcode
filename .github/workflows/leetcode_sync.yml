@@ -1,0 +1,11 @@
+- name: LeetCode Synchronizer
+  # You may pin to the exact commit or the version.
+  # uses: dos-m0nk3y/LeetCode-Synchronizer@d982d7a1e6e37876b63b17702093ddc08e51bb57
+  uses: dos-m0nk3y/LeetCode-Synchronizer@v1.1.0
+  with:
+    # GitHub Token
+    GITHUB_TOKEN: 
+    # LeetCode Session
+    LEETCODE_SESSION: 
+    # LeetCode CSRF Token
+    LEETCODE_CSRF_TOKEN: 

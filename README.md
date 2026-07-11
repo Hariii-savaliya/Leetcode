@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Hariii-savaliya/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariii-savaliya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariii-savaliya/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Hariii-savaliya/Leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->

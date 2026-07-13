@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

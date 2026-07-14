@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
 | [2460-apply-operations-to-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hariii-savaliya/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Hariii-savaliya/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Hariii-savaliya/Leetcode/tree/master/0292-nim-game) |
 | [0372-super-pow](https://github.com/Hariii-savaliya/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## String
 |  |

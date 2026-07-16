@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariii-savaliya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Hariii-savaliya/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hariii-savaliya/Leetcode/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariii-savaliya/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hariii-savaliya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hariii-savaliya/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Hariii-savaliya/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hariii-savaliya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hariii-savaliya/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hariii-savaliya/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Hariii-savaliya/Leetcode/tree/master/0292-nim-game) |
 | [0372-super-pow](https://github.com/Hariii-savaliya/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |

@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Hariii-savaliya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Hariii-savaliya/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariii-savaliya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Hariii-savaliya/Leetcode/tree/master/0292-nim-game) |
 | [0372-super-pow](https://github.com/Hariii-savaliya/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariii-savaliya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hariii-savaliya/Leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hariii-savaliya/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hariii-savaliya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1260-shift-2d-grid](https://github.com/Hariii-savaliya/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariii-savaliya/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Hariii-savaliya/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Hariii-savaliya/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

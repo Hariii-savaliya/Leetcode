@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Hariii-savaliya/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hariii-savaliya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Hariii-savaliya/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/Hariii-savaliya/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariii-savaliya/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Hariii-savaliya/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0605-can-place-flowers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Hariii-savaliya/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Enumeration
 |  |

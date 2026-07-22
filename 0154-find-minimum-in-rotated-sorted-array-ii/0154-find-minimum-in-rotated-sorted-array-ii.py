@@ -4,14 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        i = 0
-        j = len(nums) - 1
-        while i < j:
-            mid = (i + j)//2
-            if nums[mid] > nums[j]:
-                i = mid + 1
-            elif nums[mid] < nums[j]:
-                j = mid
-            else:
-                j -= 1
-        return nums[i]
+        m = nums[0]
+        for num in nums:
+            m = min(m , num)
+        return m

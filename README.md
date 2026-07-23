@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Hariii-savaliya/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariii-savaliya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
 |  |
 | ------- |

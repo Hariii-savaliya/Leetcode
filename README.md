@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hariii-savaliya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Hariii-savaliya/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Hariii-savaliya/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariii-savaliya/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hariii-savaliya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Hariii-savaliya/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Hariii-savaliya/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Hariii-savaliya/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hariii-savaliya/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Hariii-savaliya/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Hariii-savaliya/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Hariii-savaliya/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Hariii-savaliya/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Hariii-savaliya/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Hariii-savaliya/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Hariii-savaliya/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Hariii-savaliya/Leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Trie

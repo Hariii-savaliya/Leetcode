@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Hariii-savaliya/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Hariii-savaliya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hariii-savaliya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariii-savaliya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->

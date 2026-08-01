@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hariii-savaliya/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Hariii-savaliya/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Hariii-savaliya/Leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Hariii-savaliya/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/Hariii-savaliya/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Hariii-savaliya/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Hariii-savaliya/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Hariii-savaliya/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Hariii-savaliya/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Hariii-savaliya/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hariii-savaliya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Hariii-savaliya/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Hariii-savaliya/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Hariii-savaliya/Leetcode/tree/master/0415-add-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hariii-savaliya/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hariii-savaliya/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

@@ -280,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Hariii-savaliya/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Hariii-savaliya/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Hariii-savaliya/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

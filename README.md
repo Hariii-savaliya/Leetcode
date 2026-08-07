@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Hariii-savaliya/Leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hariii-savaliya/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hariii-savaliya/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2129-capitalize-the-title](https://github.com/Hariii-savaliya/Leetcode/tree/master/2129-capitalize-the-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |

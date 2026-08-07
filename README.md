@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Hariii-savaliya/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Hariii-savaliya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hariii-savaliya/Leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Hariii-savaliya/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hariii-savaliya/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hariii-savaliya/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hariii-savaliya/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,4 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Hariii-savaliya/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Hariii-savaliya/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Hariii-savaliya/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Hariii-savaliya/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
